@@ -1,9 +1,10 @@
 # Chh-OLA
 
-## Estimate the total fare amount of trip prior to the booking using various trip parameters.
+### Estimate the total fare amount of trip prior to the booking using various trip parameters.
 
-### train.csv contains the training set data, test.csv contains the test set data.
-### main.ipynb contains my model.
+train.csv contains the training set data, test.csv contains the test set data.
+
+main.ipynb contains my model.
 
 # DataSet
 
