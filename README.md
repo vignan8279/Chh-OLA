@@ -1,6 +1,6 @@
 # Chh-OLA
 
-## Estimate the fare amount prior to the booking.
+## Estimate the total fare amount of trip prior to the booking.
 
 In the Global Entrepreneurship Summit, Chh-OLA, the taxi-hailing startup led by Khanchandani, Harsh and Dwivedi garnered a lot of interest and funding from the investors. Five years later, Chh-OLA is successfully running a number of taxis on the streets of New Delhi and garnering significant profit.
 
@@ -45,4 +45,8 @@ extra_charges - Miscellaneous charges.
 improvement_charge - Charge levied for improvement in infrastructure.
 
 total_amount - Output label; Final amount to be paid including meter fare and all extra charges.
+
+
+### train.csv contains the training set data, test.csv contains the test set data.
+### main.ipynb contains my model.
 
