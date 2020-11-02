@@ -1,12 +1,9 @@
 # Chh-OLA
 
-## Estimate the total fare amount of trip prior to the booking.
+## Estimate the total fare amount of trip prior to the booking using various trip parameters.
 
-In the Global Entrepreneurship Summit, Chh-OLA, the taxi-hailing startup led by Khanchandani, Harsh and Dwivedi garnered a lot of interest and funding from the investors. Five years later, Chh-OLA is successfully running a number of taxis on the streets of New Delhi and garnering significant profit.
-
-Now, Chh-OLA has opened a Data Science division recently and you have been recruited into the division. As part of your training, Shruti, the head of the Data Science division, has given you a task of estimating total fare amount of trips using various trip parameters such as distance, passenger count etc.
-
-Can you fulfil this task given by your head?
+### train.csv contains the training set data, test.csv contains the test set data.
+### main.ipynb contains my model.
 
 # DataSet
 
@@ -47,6 +44,4 @@ improvement_charge - Charge levied for improvement in infrastructure.
 total_amount - Output label; Final amount to be paid including meter fare and all extra charges.
 
 
-### train.csv contains the training set data, test.csv contains the test set data.
-### main.ipynb contains my model.
 
